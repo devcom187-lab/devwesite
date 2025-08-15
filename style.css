@@ -251,6 +251,7 @@ section {
   color: #fff;
   cursor: pointer;
   border: none;
+ border-radius: 5px;
 }
 .contact__button:hover {
   background: var(--first-color-alt);
